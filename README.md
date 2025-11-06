@@ -111,5 +111,3 @@ fitness-tracker/
 - Verify the backend is running on http://localhost:5000
 - Check the browser console for errors
 - Make sure no firewall is blocking the connection
-# fitness-tracker-example
-# fitness-tracker-example
