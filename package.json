@@ -1,0 +1,18 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "A full-stack fitness tracker application",
+  "private": true,
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev": "echo 'Run backend: cd backend && npm run dev' && echo 'Run frontend: cd frontend && npm start'"
+  },
+  "keywords": [
+    "fitness",
+    "tracker",
+    "workout",
+    "exercise"
+  ],
+  "author": "",
+  "license": "MIT"
+}
