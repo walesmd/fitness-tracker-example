@@ -112,3 +112,4 @@ fitness-tracker/
 - Check the browser console for errors
 - Make sure no firewall is blocking the connection
 # fitness-tracker-example
+# fitness-tracker-example
